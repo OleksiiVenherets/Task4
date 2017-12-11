@@ -1,0 +1,5 @@
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask4\EpamPracticeTask4\bin\Release\EpamPracticeTask4.exe.config
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask4\EpamPracticeTask4\bin\Release\EpamPracticeTask4.exe
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask4\EpamPracticeTask4\bin\Release\EpamPracticeTask4.pdb
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask4\EpamPracticeTask4\obj\Release\EpamPracticeTask4.exe
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\EpamPracticeTask4\EpamPracticeTask4\obj\Release\EpamPracticeTask4.pdb
